@@ -7,6 +7,9 @@ baseurl: ''
 disqus: 'eduardo-souza-dev'
 email: 'eduardo@eduardosouza.com.br'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+url: "http://blog.eduardosouza.net" # the base hostname & protocol for your site
+twitter_username: edusouza_dev
+github_username:  edusouza
 
 include: ["_pages"]
 permalink: /:title/
